@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/*  CSS  */
+/*
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 5, 5);
+    align-items: center;
+    height: 75px;
+}
+
+.logo {
+    width: 115px;
+    height: 75px;
+}
+
+.nav-items > ul {
+    display: flex;
+    list-style-type: none;
+    font-size: 17px;
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+    margin: 10px;
+}
+
+.nav-items ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: space-around;
+}
+
+.res-card {
+    width: 220px;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(251, 241, 226);
+    font-size: small;
+}
+
+.res-card:hover {
+    box-shadow: 2px 2px 20px 4px rgb(252, 203, 23);
+    cursor: pointer;
+}
+
+.res-img {
+    width: 100%;
+}
+*/
+
+/* footer */
+/*
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 120px);
+}
+
+.footer {
+    margin-top: auto;
+    background-color: #ce9775;
+    padding: 12px;
+    text-align: center;
+}
+*/
+/* footer ends */
+
+/*
+.filter-btn {
+    margin: 10px;
+    padding: 5px;
+    margin-left: 42px;
+    margin-right: 42px;
+}
+
+.searchBox, .search-btn {
+    padding: 5px;
+}
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.shimmer-card {
+    height: 340px;
+    width: 220px;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+.login {
+    width: 80px;
+    height: 50px;
+    margin-top: 9px;
+    margin-right: 8px;
+    font-weight: bold;
+}
+*/ 
